@@ -1,0 +1,468 @@
+{
+	"version": 24,
+	"artboards": [
+		{
+			"name": "Artboard",
+			"translation": [
+				2323.301025390625,
+				-21.3592529296875
+			],
+			"width": 62.75921630859375,
+			"height": 60.252471923828125,
+			"origin": [
+				-6.259195804595947,
+				-4.5950164794921875
+			],
+			"clipContents": true,
+			"color": [
+				0.48571428656578064,
+				0.48571428656578064,
+				0.48571428656578064,
+				1
+			],
+			"nodes": [
+				{
+					"name": "Right",
+					"translation": [
+						440.5814514160156,
+						292.07513427734375
+					],
+					"rotation": 0,
+					"scale": [
+						1,
+						1
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"isVisible": true,
+					"blendMode": 15,
+					"drawOrder": 4,
+					"transformAffectsStroke": false,
+					"type": "shape"
+				},
+				{
+					"name": "Color",
+					"parent": 0,
+					"opacity": 1,
+					"numColorStops": 2,
+					"colorStops": [
+						0.4080714285373688,
+						0.938095211982727,
+						0.779088020324707,
+						1,
+						0,
+						0.027857139706611633,
+						0.37142857909202576,
+						0.2889714539051056,
+						1,
+						1
+					],
+					"start": [
+						0,
+						-17.5
+					],
+					"end": [
+						0,
+						17.5
+					],
+					"fillRule": 1,
+					"type": "gradientFill"
+				},
+				{
+					"name": "Ellipse Path",
+					"parent": 0,
+					"translation": [
+						0,
+						0
+					],
+					"rotation": 0,
+					"scale": [
+						1,
+						1
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"bones": [],
+					"isVisible": true,
+					"isClosed": true,
+					"points": [
+						{
+							"pointType": 2,
+							"translation": [
+								0,
+								-15
+							],
+							"in": [
+								-8.284271240234375,
+								-15
+							],
+							"out": [
+								8.284271240234375,
+								-15
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								15,
+								0
+							],
+							"in": [
+								15,
+								-8.284271240234375
+							],
+							"out": [
+								15,
+								8.284271240234375
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								0,
+								15
+							],
+							"in": [
+								8.284271240234375,
+								15
+							],
+							"out": [
+								-8.284271240234375,
+								15
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								-15,
+								0
+							],
+							"in": [
+								-15,
+								8.284271240234375
+							],
+							"out": [
+								-15,
+								-8.284271240234375
+							]
+						}
+					],
+					"type": "path"
+				},
+				{
+					"name": "Left",
+					"translation": [
+						407.8222351074219,
+						291.8611145019531
+					],
+					"rotation": 0,
+					"scale": [
+						1,
+						1
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"isVisible": true,
+					"blendMode": 15,
+					"drawOrder": 1,
+					"transformAffectsStroke": false,
+					"type": "shape"
+				},
+				{
+					"name": "Ellipse Path",
+					"parent": 3,
+					"translation": [
+						0,
+						0
+					],
+					"rotation": 0,
+					"scale": [
+						1,
+						1
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"width": 30,
+					"height": 30,
+					"type": "ellipse"
+				},
+				{
+					"name": "Color",
+					"parent": 3,
+					"opacity": 1,
+					"numColorStops": 2,
+					"colorStops": [
+						0.4080714285373688,
+						0.938095211982727,
+						0.779088020324707,
+						1,
+						0,
+						0.027857139706611633,
+						0.37142857909202576,
+						0.2889714539051056,
+						1,
+						1
+					],
+					"start": [
+						0,
+						-17.5
+					],
+					"end": [
+						0,
+						17.5
+					],
+					"fillRule": 1,
+					"type": "gradientFill"
+				},
+				{
+					"name": "Middle",
+					"translation": [
+						425.0000305175781,
+						303.4253234863281
+					],
+					"rotation": 0,
+					"scale": [
+						1,
+						1
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"isVisible": true,
+					"blendMode": 15,
+					"drawOrder": 3,
+					"transformAffectsStroke": false,
+					"type": "shape"
+				},
+				{
+					"name": "Ellipse Path",
+					"parent": 6,
+					"translation": [
+						0,
+						0
+					],
+					"rotation": 0,
+					"scale": [
+						1,
+						1
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"width": 30,
+					"height": 30,
+					"type": "ellipse"
+				},
+				{
+					"name": "Color",
+					"parent": 6,
+					"opacity": 1,
+					"numColorStops": 2,
+					"colorStops": [
+						0.4080714285373688,
+						0.938095211982727,
+						0.779088020324707,
+						1,
+						0,
+						0.027857139706611633,
+						0.37142857909202576,
+						0.2889714539051056,
+						1,
+						1
+					],
+					"start": [
+						0,
+						-17.5
+					],
+					"end": [
+						0,
+						17.5
+					],
+					"fillRule": 0,
+					"type": "gradientFill"
+				},
+				{
+					"name": "Bottom",
+					"translation": [
+						424.5867004394531,
+						322.11358642578125
+					],
+					"rotation": 0,
+					"scale": [
+						1,
+						1
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"isVisible": true,
+					"blendMode": 15,
+					"drawOrder": 2,
+					"transformAffectsStroke": false,
+					"type": "shape"
+				},
+				{
+					"name": "Ellipse Path",
+					"parent": 9,
+					"translation": [
+						0,
+						0
+					],
+					"rotation": 0,
+					"scale": [
+						1,
+						1
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"width": 30,
+					"height": 30,
+					"type": "ellipse"
+				},
+				{
+					"name": "Color",
+					"parent": 9,
+					"opacity": 1,
+					"numColorStops": 2,
+					"colorStops": [
+						0.4080714285373688,
+						0.938095211982727,
+						0.779088020324707,
+						1,
+						0,
+						0.027857139706611633,
+						0.37142857909202576,
+						0.2889714539051056,
+						1,
+						1
+					],
+					"start": [
+						0,
+						-17.5
+					],
+					"end": [
+						0,
+						17.5
+					],
+					"fillRule": 1,
+					"type": "gradientFill"
+				}
+			],
+			"animations": [
+				{
+					"name": "Rotate Electrons",
+					"fps": 60,
+					"duration": 1.0666666666666667,
+					"isLooping": true,
+					"keyed": [
+						{
+							"component": 0,
+							"rotation": [
+								[
+									{
+										"time": 0,
+										"interpolatorType": 1,
+										"value": 0
+									},
+									{
+										"time": 1.0666666666666667,
+										"interpolatorType": 1,
+										"value": 6.283185307179586
+									}
+								]
+							]
+						},
+						{
+							"component": 3,
+							"rotation": [
+								[
+									{
+										"time": 0,
+										"interpolatorType": 1,
+										"value": 0
+									},
+									{
+										"time": 1.0666666666666667,
+										"interpolatorType": 1,
+										"value": 6.283185307179586
+									}
+								]
+							]
+						},
+						{
+							"component": 6,
+							"scaleX": [
+								[
+									{
+										"time": 0,
+										"interpolatorType": 1,
+										"value": 1
+									},
+									{
+										"time": 1.0666666666666667,
+										"interpolatorType": 1,
+										"value": 0.75
+									}
+								]
+							],
+							"scaleY": [
+								[
+									{
+										"time": 0,
+										"interpolatorType": 1,
+										"value": 1
+									},
+									{
+										"time": 1.0666666666666667,
+										"interpolatorType": 1,
+										"value": 0.75
+									}
+								]
+							]
+						},
+						{
+							"component": 9,
+							"posX": [
+								[
+									{
+										"time": 0,
+										"interpolatorType": 1,
+										"value": 424.5867004394531
+									},
+									{
+										"time": 1.0666666666666667,
+										"interpolatorType": 1,
+										"value": 424.5867004394531
+									}
+								]
+							],
+							"rotation": [
+								[
+									{
+										"time": 0,
+										"interpolatorType": 1,
+										"value": 0
+									},
+									{
+										"time": 1.0666666666666667,
+										"interpolatorType": 1,
+										"value": 6.283185307179586
+									}
+								]
+							]
+						}
+					],
+					"animationStart": 0,
+					"animationEnd": 1.0666666666666667,
+					"type": "animation"
+				}
+			],
+			"type": "artboard"
+		}
+	]
+}
